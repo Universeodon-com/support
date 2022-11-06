@@ -1,10 +1,11 @@
 # support
 Support 
 
-## Platform Issues
+## General Support
 
-Please open an issue with this project if you experience any issues with https://universeodon.com Mastodon Service.
+Please use the Github discussions for any general support, bugs, feature requests: https://github.com/Universeodon-com/support/discussions
 
+If you are reporting any violations or bad actors - please see the next section.
 
 ## Reporting Violations/Content/Servers/Users
 
